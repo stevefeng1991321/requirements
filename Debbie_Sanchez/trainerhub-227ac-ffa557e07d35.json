@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "trainerhub-227ac",
+  "private_key_id": "ffa557e07d3500dc18ef9398309823fca8e8b496",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDs43tOhObJnw8y\nf5yjH/8CeaA/KgvzUR9JjN/po6ZxIHcCl+hUSj7SFgPV9YdqjWEch58PCTj80p7d\nP5uPi4tGTcyptnlG8hUoVspTr/kub9T1YGF84hRgD1gJR2uECGb8nkPuShrZU8IN\nLxcEFxT/oF/HMdIPnEi0pxuOtZ2MNeilWjOJolTrtV47pDM/xQhY/Fibq17hiOrZ\nha+v9xhN23NrKuB9GTRN9/+YydafcPE8kZ8jOIbDsbTer57hrqZpB88DB1qEVNue\nKzhNGHODfemue+pxjgQio9xgO+/S3PNIfdw1AC/41sPmZN7Q+am2MEyocAwrJoVI\nhnJSkjkdAgMBAAECggEACPajYzMBYV53/or4ZbryzqiRf38n/2eLZ1OoSVJPtiod\ntrOblYAcGAQmb85TKgOT41BFnK9wDS9fCYCI2PA7yRSg8OI4Fo7xOme5gii/cgCT\nSBgC64aWcZTcpoU7gT4PWSTkulVQsymv+jwhtje1Xxk1zPckO3XIOBjp09P1bfYU\nAAgAYsYZAIepxWZkKRUfkWGO6Strcsxa86Qts27kisetvu6X75ek1NUfVq8tA1Lz\nijgIY7albkKmQjYku9bP7/sslFiiOVxRYIhB3uqRQU7Wx51xipAMZm00Nx6qRiND\n498JtjVM8PibmnPEBW7vZXEsrfIf8SiCTgI1WWwUIQKBgQD5Znt7K6JeZNSdcHqu\nutJL8qUlIEdHsnUtaPoTqtjPdh72r0IS8OD5lUVuLQEaW6LLWqq4TBcRM7oRZLae\nMaQFJX+E+aqRJjdXMRvnLYkH00aPljFW/OY0SaXLKwh1CxXDu4Q6mFyAXp07JiHQ\ndM1izAciP9tkq9jUOKA/+5hCmQKBgQDzKD2sVSeGWY0qELRfJBXUkQEtS58ToXsV\nIIaEAavCV38nNrkUwpW3PA6yedUyMHE1w05h+8u3/iv8lPU1li03Pjbx3Lj/ljf+\nMiFXXIF3YycNcsNn3p24LboCzeBGBwaMSDqGqbpsXnUaWKOCrzLHF7CogcT1c3z8\nreXPBn4BJQKBgD89V05SMCfTVX5eiR1JTg3oByw01R4/CCttlQvrpHJmt09B/XUk\nE0f2K9bWHpN6bPs3kFaPJMI95Y6HhS7z021ipsUnMbMAh8PaNgMWrsqHLjs2kGhI\nVG8pxZqQ3OIg33H0WIErJTl/xEq9TpG3LGVC6wQqQQ1z7dVSToAq4d7xAoGBALzr\nzBckRkRNOa+wMOQm3ks8qoRt19fhxAajMcBIqBGj96gZDW4CzV4DbIvguvN2zc7u\nwuzAPQTkl3p0pZwP5WuhjAEY9CeoqDJ48oy00+ZVhFcfjpEaVsJtzLM3EAR4mu7N\ng6NzJePi8+sXaVs1Eie70UbrJINsSnTsC7xxF999AoGBAKnyv3tVjAf5vhj8GfCZ\nBcuPpxYHEuxK+eH6w1bUUC6O/zdPLS3ECzJyKSdfwws2weOoq+ekgbq2fQvHZ7VS\nlAHYGn86tR6xRXxCzS66+g5yX7gjqp5a8XFV9WTwhpIrmKGYn1V8DmjAwfNaeiYY\nTU4u0yp+P09zvEjlgri1AxFH\n-----END PRIVATE KEY-----\n",
+  "client_email": "revenuecat-service-account@trainerhub-227ac.iam.gserviceaccount.com",
+  "client_id": "117126480485531153340",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/revenuecat-service-account%40trainerhub-227ac.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
